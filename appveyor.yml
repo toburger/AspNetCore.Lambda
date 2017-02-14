@@ -1,4 +1,4 @@
-version: 1.0.0-preview2-{build}
+version: 0.1.0-alpha001-{build}
 configuration:
   - Release
 platform: Any CPU
